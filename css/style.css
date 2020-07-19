@@ -6,6 +6,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   background: #a6e87d;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 img {
@@ -22,14 +24,16 @@ img {
 }
 
 .info {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
 .end {
   font-size: 20px;
   margin-bottom: 50px;
+  font-weight: 800;
 }
 
 .info-label {
+  font-size: 18px;
   font-weight: 800;
 }
