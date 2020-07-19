@@ -1,3 +1,35 @@
 /* ==========================
 	Write your solution here!
    ========================== */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #a6e87d;
+  text-align: center;
+}
+
+img {
+  width: 150px;
+}
+
+.card {
+  width: 500px;
+  margin: 100px auto;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.info {
+  margin-bottom: 40px;
+}
+
+.end {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.info-label {
+  font-weight: 800;
+}
